@@ -1,4 +1,6 @@
-![Nika Shakarami](images/nika_shakarami.jpeg)
+[GitHistory](https://github.githistory.xyz/ghapuchi/legends-of-iran/edit/main/legends/nika_shakarami.md)
+
+![Nika Shakarami](../images/nika_shakarami.jpeg)
 
 ## Nika Shakarami نیکا شاکرمی
 
