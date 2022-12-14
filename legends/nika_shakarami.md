@@ -10,7 +10,7 @@ Event: Women Life Freedom Protests
 
 Death: 2022.09 Tehran Iran
 
-Birth: 2005.10.2 Khorramabad Iran
+Birth: 2005.10.02 Khorramabad Iran
 
 Nika wanted to become a singer, a superstar.
 
